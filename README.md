@@ -9,9 +9,7 @@ Think to win app for people who like to think. There are many wise people with g
 
 ### Screenshots
 
-![](3.png)
-![](4.png)
-![](5.png)
+![](5.jpg)
 
 ### Support or Contact
 
